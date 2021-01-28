@@ -14,7 +14,7 @@ public class Calculadora extends JFrame{
 		
 		setSize(232, 322);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
-		setLocationRelativeTo(null);//abre no centro da tela com valor null
+		setLocationRelativeTo(null);//abre a janela no centro da tela
 		setVisible(true);
 		
 	}
